@@ -35,6 +35,7 @@ CTestTestfile.cmake
 cmake-build-debug/
 cmake-build-debug-visualstudio/
 cmake-build-release/
+cmake-build-release-visualstudio/
 
 # Mongo Explorer plugin:
 .idea/**/mongoSettings.xml
@@ -96,3 +97,5 @@ fabric.properties
 *.app
 
 .third-party/
+json.hpp
+variant.hpp

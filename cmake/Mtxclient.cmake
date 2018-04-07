@@ -21,7 +21,7 @@ ExternalProject_Add(
         Mtxclient
 
         GIT_REPOSITORY https://github.com/mujx/mtxclient
-        GIT_TAG 6ecda9ed78244b1d2aa71eb043fd51cb49a9c75d
+        GIT_TAG 88856df5a7448dd55df4c5f4b86f309cbecc648e
 
         BUILD_IN_SOURCE 1
         SOURCE_DIR ${MTXCLIENT_ROOT}
